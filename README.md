@@ -5,7 +5,7 @@ The Mentalist 🔮
 <h1>
   <img src="https://i.ibb.co/wrXHLFm/pfxaviee4.png" />
 </h1>
-<h1 align='center'><a href="">See the site</a></h1>
+<h1 align='center'><a href="https://ewrtonl.github.io/mentalista/">See the site</a></h1>
 
 ## 📕 About
 
